@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <span class="brand-mark">P</span>
+        <span>PANDAS Lab</span>
+      </a>
+      <nav>
+        <a href="{{ '/research/' | relative_url }}">Research</a>
+        <a href="{{ '/people/' | relative_url }}">People</a>
+        <a href="{{ '/publications/' | relative_url }}">Publications</a>
+        <a href="{{ '/projects/' | relative_url }}">Projects</a>
+        <a href="{{ '/news/' | relative_url }}">News</a>
+        <a href="{{ '/contact/' | relative_url }}">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <strong>PANDAS Lab</strong>
+        <p>AI-driven materials discovery, synthesis, and autonomous experimentation.</p>
+      </div>
+      <div class="footer-links">
+        <a href="https://github.com/pandas-unila">GitHub</a>
+        <a href="https://www.instagram.com/pandas.lab.unila/">Instagram</a>
+      </div>
+    </div>
+    <div class="container copyright">
+      © {{ 'now' | date: "%Y" }} PANDAS Lab · UNILA
+    </div>
+  </footer>
+</body>
+</html>

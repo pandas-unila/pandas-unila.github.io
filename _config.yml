@@ -1,0 +1,14 @@
+title: "PANDAS Lab"
+description: "AI-driven materials discovery, synthesis, and autonomous experimentation"
+url: "https://pandas-unila.github.io"
+baseurl: ""
+lang: "en"
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

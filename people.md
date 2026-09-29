@@ -20,7 +20,29 @@ This section will be updated as the group grows.
 
 ### Students
 
-Add student profiles here, including name, degree program, research topic, and links.
+### Anaylis Calvo Alfonso
+Chemical Engineering Undergraduate Student
+Universidade Federal da Integração Latino-Americana
+
+### Ivan Marcelo dos Santos Schlosser
+Chemical Engineering Undergraduate Student
+Universidade Federal da Integração Latino-Americana
+
+### Maykell Hernan Narvaez Solorzano
+Civil and Infrastructure Engineering Undergraduate Student
+Universidade Federal da Integração Latino-Americana
+
+### Nathaly Stefania Lou Valinotti
+Chemical Engineering Undergraduate Student
+Universidade Federal da Integração Latino-Americana
+
+### Thiago Rafael Pereira
+Chemical Engineering Undergraduate Student
+Universidade Federal da Integração Latino-Americana
+
+### Verónica Jazmín Rivas Benítez
+Chemical Engineering Undergraduate Student
+Universidade Federal da Integração Latino-Americana
 
 ### Collaborators
 

@@ -76,15 +76,11 @@ a {
   white-space: nowrap;
 }
 
-.brand-mark {
-  display: grid;
-  place-items: center;
-  width: 30px;
-  height: 30px;
-  border-radius: 50%;
-  background: var(--accent);
-  color: white;
-  font-size: 15px;
+.brand-logo {
+  width: 38px;
+  height: 38px;
+  object-fit: contain;
+  display: block;
 }
 
 nav {

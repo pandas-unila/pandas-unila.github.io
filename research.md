@@ -4,20 +4,18 @@ title: "Research"
 permalink: /research/
 ---
 
-Our research combines materials science, chemical engineering, machine learning, and laboratory automation. The central goal is to make experimental discovery more efficient while retaining a strong connection to physical understanding.
+Our research combines materials science, chemical engineering, machine learning, and laboratory automation. Our central goal is to make experimental discovery more efficient while staying closely connected to physical understanding.
 
-## AI for Materials Science
+## Predictive AI for Nanomaterials Design, Applications, and Synthesis (PANDAS)
 
 We develop machine learning approaches for predicting materials properties, identifying important experimental variables, analyzing complex datasets, and guiding experimental design.
 
 Current interests include:
 
+- Data mining from scientific literature
 - Materials property prediction
 - Small-data machine learning
-- Uncertainty estimation
 - Explainable machine learning
-- Bayesian optimization
-- Active learning
 
 ## Autonomous Experimentation
 
@@ -35,6 +33,13 @@ Current interests include:
 
 Our materials research includes semiconductor nanomaterials and functional materials whose synthesis and properties depend strongly on experimental conditions.
 
+- Quantum dots
+- Exfoliated nanomaterials
+
 ## Energy Materials
 
 Applications include materials for photovoltaics, hydrogen production and storage, electrocatalysis, and photocatalysis.
+
+- Materials for solid-state hydrogen storage
+- Photocatalysts for hydrogen generation
+- Electrocatalysts for hydrogen generation
